@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/ai-utility-platform-167458-167473/toolify_ai_backend"
+}
